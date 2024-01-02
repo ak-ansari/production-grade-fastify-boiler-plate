@@ -2,7 +2,6 @@
 import { FastifyInstance } from "fastify";
 import { Server } from "../server/server";
 import { IUser } from "../interface";
-import { AuthService } from "../modules/Auth/service/auth.service";
 import { User } from "../models";
 
 export class RedisService {
@@ -33,7 +32,7 @@ export class RedisService {
     return new Promise((resolve, reject) => {
       this._serverInstance.redis.get(key, (err, result) => {
         if (err) reject(err);
-        else resolve(JSON.parse(result));
+        else resolve(JSON.parse(result as string));
       });
     });
   }
@@ -56,7 +55,7 @@ export class RedisService {
               .select("-passwords -refreshToken")
               .lean();
             await this.set(email, user);
-            resolve(user);
+            resolve(user as IUser);
           } else {
             resolve(JSON.parse(value));
           }

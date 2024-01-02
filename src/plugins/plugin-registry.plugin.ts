@@ -2,8 +2,8 @@ import { FastifyInstance } from "fastify";
 import { PluginOptions } from "../config";
 import addHookPlugin from "./add-hook.plugin";
 import prefixPlugin from "./prefix.plugin";
-import logger from "../plugins/logger.plugin";
-import fastifySwagger from "@fastify/swagger";
+import logger from "./logger.plugin";
+import fastifySwagger, { SwaggerOptions } from "@fastify/swagger";
 import authRoutes from "../modules/Auth/routes/auth.routes";
 import cors from "@fastify/cors";
 import { fastifyRedis } from "@fastify/redis";
@@ -19,7 +19,7 @@ export default fastifyPlugin(
       .register(addHookPlugin)
       .register(prefixPlugin, { prefix: "api" })
       .register(Blipp)
-      .register(fastifySwagger, PluginOptions.SWAGGER_OPTS)
+      .register(fastifySwagger, PluginOptions.SWAGGER_OPTS as SwaggerOptions)
       .register(fastifySwaggerUi)
       .register(fastifyRedis, PluginOptions.REDIS_OPTIONS)
       .register(cors, PluginOptions.CORS_OPT)
