@@ -1,0 +1,197 @@
+ > 2024-01-02T03:58:59.428Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-02T03:59:00.180Z [32msuccess[39m: connected to database : rj_dev
+[94mIP: ::1[39m > 2024-01-02T03:59:06.203Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-02T03:59:08.781Z [31merror[39m: Error while sign up
+ > 2024-01-02T03:59:08.788Z [31merror[39m: this mobile number, email, user name,  are already registered
+[94mIP: ::1[39m > 2024-01-02T04:00:01.777Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-02T04:00:05.208Z [32msuccess[39m: Successfully sign up
+ > 2024-01-02T04:03:28.535Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-02T04:03:29.235Z [32msuccess[39m: connected to database : rj_dev
+ > 2024-01-02T04:20:25.221Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-02T04:20:26.428Z [32msuccess[39m: connected to database : rj_dev
+ > 2024-01-02T04:22:55.390Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-02T04:22:56.338Z [32msuccess[39m: connected to database : rj_dev
+ > 2024-01-02T04:24:48.295Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-02T04:24:49.083Z [32msuccess[39m: connected to database : rj_dev
+[94mIP: ::1[39m > 2024-01-02T04:26:15.469Z [34minfo[39m: login
+[94mIP: ::1[39m > 2024-01-02T04:26:15.472Z [31merror[39m: Error while login
+ > 2024-01-02T04:26:15.474Z [31merror[39m: User credentials are required
+[94mIP: ::1[39m > 2024-01-02T04:26:45.211Z [34minfo[39m: login
+[94mIP: ::1[39m > 2024-01-02T04:26:45.214Z [31merror[39m: Error while login
+ > 2024-01-02T04:26:45.216Z [31merror[39m: User credentials are required
+[94mIP: ::1[39m > 2024-01-02T04:27:02.420Z [34minfo[39m: login
+[94mIP: ::1[39m > 2024-01-02T04:27:02.570Z [31merror[39m: Error while login
+ > 2024-01-02T04:27:02.573Z [31merror[39m: Invalid user credentials
+[94mIP: ::1[39m > 2024-01-02T04:27:20.617Z [34minfo[39m: login
+[94mIP: ::1[39m > 2024-01-02T04:27:20.785Z [31merror[39m: Error while login
+ > 2024-01-02T04:27:20.787Z [31merror[39m: Invalid user credentials
+[94mIP: ::1[39m > 2024-01-02T04:27:27.350Z [34minfo[39m: login
+[94mIP: ::1[39m > 2024-01-02T04:27:27.869Z [32msuccess[39m: Successfully login
+ > 2024-01-02T04:29:22.896Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-02T04:29:23.527Z [32msuccess[39m: connected to database : rj_dev
+ > 2024-01-02T04:36:21.006Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:36:21.719Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:36:30.521Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:36:30.803Z [31merror[39m: Error while login 
+ > 2024-01-02T04:36:30.807Z [31merror[39m: [object Object] 
+ > 2024-01-02T04:37:26.862Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:37:28.155Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:37:30.318Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:37:30.498Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T04:38:09.220Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:38:09.435Z [31merror[39m: Error while login 
+ > 2024-01-02T04:40:26.309Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:40:29.882Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:40:37.150Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:40:46.186Z [31merror[39m: Error while login 
+ > 2024-01-02T04:42:57.190Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:43:00.663Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:43:05.765Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:43:08.036Z [31merror[39m: Error while login 
+ > 2024-01-02T04:44:29.480Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:44:36.508Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:44:50.415Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:45:03.702Z [31merror[39m: Error while login 
+ > 2024-01-02T04:45:22.345Z [31merror[39m: [object Object] 
+ > 2024-01-02T04:47:01.923Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:47:04.326Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:47:14.529Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:47:16.572Z [31merror[39m: Error while login 
+ > 2024-01-02T04:47:23.529Z [31merror[39m: [object Object] 
+ > 2024-01-02T04:48:48.981Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:48:51.024Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:48:55.260Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:48:59.003Z [31merror[39m: Error while login 
+ > 2024-01-02T04:49:57.113Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:49:59.314Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:50:05.575Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:50:07.271Z [31merror[39m: Error while login 
+ > 2024-01-02T04:50:37.569Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:50:40.387Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:50:43.474Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:50:44.998Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T04:50:48.009Z [31merror[39m: Server error >> Error: Invalid user credentials
+ > 2024-01-02T04:52:03.895Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:52:05.574Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:52:08.123Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:52:09.554Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T04:52:11.353Z [31merror[39m: Server error >> {"statusCode":400,"errors":[],"data":null,"success":false}
+[94mIP: ::1[39m > 2024-01-02T04:52:52.204Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:52:54.155Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T04:52:56.129Z [31merror[39m: Server error >> {"statusCode":400,"errors":[],"data":null,"success":false}
+ > 2024-01-02T04:56:58.688Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T04:57:01.865Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T04:57:07.731Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T04:57:09.922Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T04:57:11.290Z [31merror[39m: Server error >> {"statusCode":400,"errors":[],"data":null,"success":false}
+ > 2024-01-02T05:02:00.175Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:02:02.718Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T05:02:10.229Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T05:02:12.554Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T05:02:14.082Z [31merror[39m: Invalid user credentials >> {"statusCode":400,"errors":[],"data":null,"success":false}
+[94mIP: ::1[39m > 2024-01-02T05:08:28.754Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T05:08:31.316Z [31merror[39m: Error while login 
+ > 2024-01-02T05:21:24.257Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:21:25.991Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T05:21:30.978Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T05:21:33.523Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T05:21:35.999Z [31merror[39m: Invalid user credentials >> {"statusCode":400,"errors":[],"data":null,"success":false,"message":"Invalid user credentials","stack":"Error: Invalid user credentials\n    at AuthService.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:115:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:5:58)"}
+ > 2024-01-02T05:45:22.667Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:45:24.276Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T05:47:40.070Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:47:42.651Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T05:48:41.746Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:48:43.165Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T05:49:23.996Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:49:25.968Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T05:54:57.542Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:54:58.638Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T05:55:50.722Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T05:55:51.703Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T06:02:42.052Z [34minfo[39m: getting a new access token by refresh token 
+[94mIP: ::1[39m > 2024-01-02T06:02:42.286Z [32msuccess[39m: Successfully getting a new access token by refresh token 
+ > 2024-01-02T06:07:06.378Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:07:07.837Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:09:49.822Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:10:11.867Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:10:13.658Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:12:00.605Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:12:01.784Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:12:26.414Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:12:27.761Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:21:00.099Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:21:11.104Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:31:43.133Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:31:43.907Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:35:22.113Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:35:23.110Z [32msuccess[39m: connected to database : rj_dev 
+[94mak@ak.com[39m > 2024-01-02T06:35:58.525Z [34minfo[39m: logout 
+[94mak@ak.com[39m > 2024-01-02T06:35:58.727Z [32msuccess[39m: Successfully logout 
+ > 2024-01-02T06:40:27.370Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:40:37.773Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T06:41:35.343Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:41:36.511Z [32msuccess[39m: connected to database : rj_dev 
+[94mak@ak.com[39m > 2024-01-02T06:41:58.377Z [34minfo[39m: logout 
+[94mak@ak.com[39m > 2024-01-02T06:41:58.869Z [32msuccess[39m: Successfully logout 
+ > 2024-01-02T06:42:46.747Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:42:47.516Z [32msuccess[39m: connected to database : rj_dev 
+[94mak@ak.com[39m > 2024-01-02T06:42:52.173Z [34minfo[39m: logout 
+[94mak@ak.com[39m > 2024-01-02T06:42:52.283Z [32msuccess[39m: Successfully logout 
+[94mak@ak.com[39m > 2024-01-02T06:44:28.637Z [34minfo[39m: logout 
+[94mak@ak.com[39m > 2024-01-02T06:44:42.459Z [32msuccess[39m: Successfully logout 
+[94mIP: ::1[39m > 2024-01-02T06:45:17.819Z [31merror[39m: Bad request >> {"statusCode":401,"errors":[],"data":null,"success":false,"message":"Bad request","stack":"Error: Bad request\n    at Object.<anonymous> (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:29:13)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:4:12)\n    at Object.authMiddleWare (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:17:12)\n    at hookIterator (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:409:10)\n    at next (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:243:18)\n    at handleResolve (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:254:7)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+[94mIP: ::1[39m > 2024-01-02T06:45:41.438Z [34minfo[39m: getting a new access token by refresh token 
+[94mIP: ::1[39m > 2024-01-02T06:45:41.441Z [31merror[39m: Error while getting a new access token by refresh token 
+[94mIP: ::1[39m > 2024-01-02T06:45:41.445Z [31merror[39m: Unauthorized request >> {"statusCode":400,"errors":[],"data":null,"success":false,"message":"Unauthorized request","stack":"Error: Unauthorized request\n    at AuthService.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:154:15)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:4:12)\n    at AuthService.refreshToken (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:152:16)\n    at AuthController.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:92:48)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:8:71\n    at new Promise (<anonymous>)"}
+[94mIP: ::1[39m > 2024-01-02T06:46:11.719Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T06:46:11.906Z [31merror[39m: Error while login 
+[94mIP: ::1[39m > 2024-01-02T06:46:11.908Z [31merror[39m: Invalid user credentials >> {"statusCode":400,"errors":[],"data":null,"success":false,"message":"Invalid user credentials","stack":"Error: Invalid user credentials\n    at AuthService.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:121:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/abdulkarim/boiler-plate/src/modules/Auth/service/auth.service.ts:5:58)"}
+[94mIP: ::1[39m > 2024-01-02T06:46:27.009Z [34minfo[39m: login 
+[94mIP: ::1[39m > 2024-01-02T06:46:27.679Z [32msuccess[39m: Successfully login 
+[94mak@ak.com[39m > 2024-01-02T06:49:00.492Z [34minfo[39m: logout 
+[94mak@ak.com[39m > 2024-01-02T06:49:00.669Z [32msuccess[39m: Successfully logout 
+ > 2024-01-02T06:53:28.501Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T06:53:29.377Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T07:04:09.636Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:04:11.051Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T07:06:11.473Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:06:12.699Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T07:06:29.091Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:06:30.086Z [32msuccess[39m: connected to database : rj_dev 
+[94mak@ak.com[39m > 2024-01-02T07:06:40.243Z [34minfo[39m: sign up 
+[94mak@ak.com[39m > 2024-01-02T07:06:40.660Z [32msuccess[39m: Successfully sign up 
+[94mak@ak.com[39m > 2024-01-02T07:06:53.728Z [34minfo[39m: login 
+[94mak@ak.com[39m > 2024-01-02T07:06:53.964Z [32msuccess[39m: Successfully login 
+[94mIP: ::1[39m > 2024-01-02T07:07:05.415Z [34minfo[39m: getting a new access token by refresh token 
+[94mIP: ::1[39m > 2024-01-02T07:07:05.744Z [32msuccess[39m: Successfully getting a new access token by refresh token 
+ > 2024-01-02T07:12:21.844Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:12:23.286Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T07:12:44.016Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:12:44.791Z [32msuccess[39m: connected to database : rj_dev 
+ > 2024-01-02T07:16:32.158Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:16:33.612Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T07:16:36.146Z [31merror[39m: Cannot read properties of undefined (reading 'uniqueId') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading 'uniqueId')","stack":"TypeError: Cannot read properties of undefined (reading 'uniqueId')\n    at Object.<anonymous> (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:27:27)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:4:12)\n    at Object.authMiddleWare (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:16:12)\n    at hookIterator (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:409:10)\n    at next (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:243:18)\n    at handleResolve (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:254:7)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+ > 2024-01-02T07:17:32.316Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:17:33.414Z [32msuccess[39m: connected to database : rj_dev 
+[94mIP: ::1[39m > 2024-01-02T07:17:35.096Z [31merror[39m: Cannot read properties of undefined (reading 'uniqueId') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading 'uniqueId')","stack":"TypeError: Cannot read properties of undefined (reading 'uniqueId')\n    at Object.<anonymous> (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:27:27)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:4:12)\n    at Object.authMiddleWare (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:16:12)\n    at hookIterator (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:409:10)\n    at next (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:243:18)\n    at handleResolve (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:254:7)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+[94mIP: ::1[39m > 2024-01-02T07:17:39.968Z [31merror[39m: Cannot read properties of undefined (reading 'uniqueId') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading 'uniqueId')","stack":"TypeError: Cannot read properties of undefined (reading 'uniqueId')\n    at Object.<anonymous> (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:27:27)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:4:12)\n    at Object.authMiddleWare (/Users/abdulkarim/boiler-plate/src/middlewares/auth.middleware.ts:16:12)\n    at hookIterator (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:409:10)\n    at next (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:243:18)\n    at handleResolve (/Users/abdulkarim/boiler-plate/node_modules/fastify/lib/hooks.js:254:7)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+ > 2024-01-02T07:19:47.459Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:19:48.791Z [32msuccess[39m: connected to database : rj_dev 
+[94m_id >>6593b6009491762d6db209da[39m > 2024-01-02T07:19:52.167Z [34minfo[39m: getting a new access token by refresh token 
+[94m_id >>6593b6009491762d6db209da[39m > 2024-01-02T07:19:52.473Z [32msuccess[39m: Successfully getting a new access token by refresh token 
+[94mIP: ::1[39m > 2024-01-02T07:20:23.848Z [34minfo[39m: logout 
+[94mIP: ::1[39m > 2024-01-02T07:20:23.852Z [31merror[39m: Error while logout 
+[94mIP: ::1[39m > 2024-01-02T07:20:23.863Z [31merror[39m: Cannot read properties of undefined (reading '_id') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at AuthController.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:120:43)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:4:12)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:118:56\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:21:13\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:8:71\n    at new Promise (<anonymous>)"}
+[94mIP: ::1[39m > 2024-01-02T07:20:58.207Z [34minfo[39m: logout 
+[94mIP: ::1[39m > 2024-01-02T07:20:58.209Z [31merror[39m: Error while logout 
+[94mIP: ::1[39m > 2024-01-02T07:20:58.212Z [31merror[39m: Cannot read properties of undefined (reading '_id') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at AuthController.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:120:43)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:4:12)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:118:56\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:21:13\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:8:71\n    at new Promise (<anonymous>)"}
+[94mIP: ::1[39m > 2024-01-02T07:21:47.020Z [34minfo[39m: logout 
+[94mIP: ::1[39m > 2024-01-02T07:21:47.023Z [31merror[39m: Error while logout 
+[94mIP: ::1[39m > 2024-01-02T07:21:47.025Z [31merror[39m: Cannot read properties of undefined (reading '_id') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at AuthController.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:120:43)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:4:12)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:118:56\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:21:13\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:8:71\n    at new Promise (<anonymous>)"}
+[94mIP: ::1[39m > 2024-01-02T07:22:00.542Z [34minfo[39m: logout 
+[94mIP: ::1[39m > 2024-01-02T07:22:00.544Z [31merror[39m: Error while logout 
+[94mIP: ::1[39m > 2024-01-02T07:22:00.552Z [31merror[39m: Cannot read properties of undefined (reading '_id') >> {"statusCode":500,"errors":[],"data":null,"success":false,"message":"Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at AuthController.<anonymous> (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:120:43)\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:4:12)\n    at /Users/abdulkarim/boiler-plate/src/modules/Auth/controllers/auth.controller.ts:118:56\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:21:13\n    at Generator.next (<anonymous>)\n    at /Users/abdulkarim/boiler-plate/src/utils/async-handler.ts:8:71\n    at new Promise (<anonymous>)"}
+ > 2024-01-02T07:25:09.182Z [34minfo[39m: Successfully start server http://[::1]:8080 
+ > 2024-01-02T07:25:10.935Z [32msuccess[39m: connected to database : rj_dev 
+[94mak@ak.com[39m > 2024-01-02T07:25:16.637Z [34minfo[39m: logout 
+[94mak@ak.com[39m > 2024-01-02T07:25:16.908Z [32msuccess[39m: Successfully logout 

@@ -1,0 +1,35 @@
+ > 2024-01-01T11:04:19.524Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-01T11:04:20.573Z [32msuccess[39m: connected to database : rj_dev
+ > 2024-01-01T11:08:15.848Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-01T11:08:16.897Z [32msuccess[39m: connected to database : rj_dev
+[94mIP: ::1[39m > 2024-01-01T11:08:26.941Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:08:26.944Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:08:26.946Z [31merror[39m: All fields are required
+[94mIP: ::1[39m > 2024-01-01T11:08:56.169Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:08:56.418Z [32msuccess[39m: Successfully sign up
+[94mIP: ::1[39m > 2024-01-01T11:11:22.756Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:11:22.949Z [32msuccess[39m: Successfully sign up
+[94mIP: ::1[39m > 2024-01-01T11:12:25.684Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:12:25.722Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:12:25.722Z [31merror[39m: this mobile number, email, user name,  are already registered
+[94mIP: ::1[39m > 2024-01-01T11:12:33.740Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:12:33.782Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:12:33.783Z [31merror[39m: this mobile number, email,  are already registered
+[94mIP: ::1[39m > 2024-01-01T11:13:20.310Z [34minfo[39m: sign up
+ > 2024-01-01T11:14:09.383Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-01T11:14:10.085Z [32msuccess[39m: connected to database : rj_dev
+[94mIP: ::1[39m > 2024-01-01T11:14:12.658Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:14:16.472Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:14:16.478Z [31merror[39m: this mobile number, email, user name,  are already registered
+[94mIP: ::1[39m > 2024-01-01T11:14:28.115Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:14:29.733Z [32msuccess[39m: Successfully sign up
+ > 2024-01-01T11:15:38.273Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-01T11:15:39.056Z [32msuccess[39m: connected to database : rj_dev
+[94mIP: ::1[39m > 2024-01-01T11:15:42.871Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:15:43.137Z [32msuccess[39m: Successfully sign up
+[94mIP: ::1[39m > 2024-01-01T11:16:28.759Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:17:38.743Z [32msuccess[39m: Successfully sign up
+ > 2024-01-01T11:18:48.508Z [34minfo[39m: Successfully start server http://[::1]:8080
+ > 2024-01-01T11:18:49.186Z [32msuccess[39m: connected to database : rj_dev
+[94mIP: ::1[39m > 2024-01-01T11:18:55.849Z [34minfo[39m: sign up
+[94mIP: ::1[39m > 2024-01-01T11:19:04.376Z [32msuccess[39m: Successfully sign up

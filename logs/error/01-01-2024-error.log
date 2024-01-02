@@ -1,0 +1,8 @@
+[94mIP: ::1[39m > 2024-01-01T11:08:26.944Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:08:26.946Z [31merror[39m: All fields are required
+[94mIP: ::1[39m > 2024-01-01T11:12:25.722Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:12:25.722Z [31merror[39m: this mobile number, email, user name,  are already registered
+[94mIP: ::1[39m > 2024-01-01T11:12:33.782Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:12:33.783Z [31merror[39m: this mobile number, email,  are already registered
+[94mIP: ::1[39m > 2024-01-01T11:14:16.472Z [31merror[39m: Error while sign up
+ > 2024-01-01T11:14:16.478Z [31merror[39m: this mobile number, email, user name,  are already registered
