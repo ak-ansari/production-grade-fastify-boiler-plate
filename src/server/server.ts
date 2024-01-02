@@ -24,8 +24,8 @@ export class Server {
       this._app.logger.info({
         message: `Successfully ${Msg.SERVER_START} ${address}`,
       });
-      this._app.blipp();
       this._app.swagger();
+      this._app.blipp();
     });
     return this._app;
   }

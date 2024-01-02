@@ -14,7 +14,7 @@ export class PluginOptions {
         description: "Documentation for Fastify API",
         version: "1.0.0",
       },
-      host: "localhost:8080", // Update with your actual server host
+      host: `localhost:${this._config.PORT}`, // Update with your actual server host
       schemes: ["http", "https"],
       consumes: ["application/json"],
       produces: ["application/json"],

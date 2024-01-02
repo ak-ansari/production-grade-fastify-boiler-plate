@@ -13,4 +13,5 @@ export interface IEnv {
   readonly ACCESS_TOKEN_EXPIRY: string;
   readonly REFRESH_TOKEN_EXPIRY: string;
   readonly COOKIE_SECRET: string;
+  readonly PORT: string;
 }
